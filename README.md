@@ -66,7 +66,6 @@ NOTE: BISA DI RUN DI WINDOWS/LINUX (tidak hanya di termux)
 | SELF-BOT     |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
-|       ✅       | Nulis                            |
 |       ✅       | add                          |
 |       ✅       | url2img                           |
 |       ✅       | ReadAll                         |
@@ -76,29 +75,21 @@ NOTE: BISA DI RUN DI WINDOWS/LINUX (tidak hanya di termux)
 |       ✅       | bc           |
 |       ✅       | welcome                           |
 |       ✅       | Youtube Downloader               |
-|       ✅       | simi                           |
 |       ✅       | left                    |
 |       ✅       | setpp                    |
 |       ✅       | group buka/tutup                   |
 |       ✅       | nsfwloli                 |
 |       ✅       | loli              |
 |       ✅       | tts                            |
-|       ✅       | tiktokstalk          |
-|       ✅       | tiktok             |
 |       ✅       | tagall               |
 |       ✅       | clearall             |
 |       ✅       | block        |
 |       ✅       | unblock                        |
-|       ✅       | sound                              |
+|       ✅       | unblock                        |
 |       ✅       | tsticker                    |
-|       ✅       | nulis                             |
 |       ✅       | meme                           |
 |       ✅       | memeindo                     |
-|       ✅       | ocr                      |
-|       ✅       | fordward                      |
 |       ✅       | runtime                      |
-|       ✅       | clone                            |
-|       ✅       | bc                          |
 |       ✅       | leave                             |
 |       ✅       | url2img                           |
 |       ✅       | wait                          |
