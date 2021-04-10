@@ -120,7 +120,7 @@ DAN LAIN LAIN
 
 
 ## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fserafallleviathan%2Fselfbot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fserafallleviathan%2Fselfbot?ref=badge_large)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHAFizh-15%2FTERMOS-WABOT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHAFizh-15%2FTERMOS-WABOT?ref=badge_large)
 
 ## REPOSITORY BY LEVIA☆TAN
 
